@@ -1,0 +1,26 @@
+h1{
+    text-align:center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+img{
+    float: left;
+}
+
+.container{
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+#main-bio,#contact-info{
+    width: 50%;
+}
+
+#main-bio{
+    float:left;
+}
+#contact-info{
+    float:right;
+}
